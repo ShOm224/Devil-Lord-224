@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cfloat>
 
-using namespace std;
+using namespace std; 
 
 int main() {
   char op;
